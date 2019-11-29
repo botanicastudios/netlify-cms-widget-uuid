@@ -1,5 +1,5 @@
 {
-	"name": "netlify-cms-widget-uuid",
+	"name": "@botanicastudios/netlify-cms-widget-uuid",
 	"author": "Toby Marsden",
 	"description": "A Netlify CMS widget for generating an automatic uuid for each document",
 	"keywords": [
